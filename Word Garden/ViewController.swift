@@ -101,9 +101,10 @@ class ViewController: UIViewController {
 
     }
     
+    
     @IBAction func guessLetterButtonPressed(_ sender: UIButton) {
-        updateUIAfterGuess()
         guessALetter()
+        updateUIAfterGuess()
     }
     
     

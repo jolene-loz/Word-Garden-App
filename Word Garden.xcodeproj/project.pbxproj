@@ -47,6 +47,7 @@
 		451412112149722100036646 /* Word GardenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word GardenUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		451412152149722100036646 /* Word_GardenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_GardenUITests.swift; sourceTree = "<group>"; };
 		451412172149722100036646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45DAFAF52150583B00350994 /* Guess Formatter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Guess Formatter.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		451411E92149722000036646 = {
 			isa = PBXGroup;
 			children = (
+				45DAFAF52150583B00350994 /* Guess Formatter.playground */,
 				451411F42149722000036646 /* Word Garden */,
 				451412092149722100036646 /* Word GardenTests */,
 				451412142149722100036646 /* Word GardenUITests */,
